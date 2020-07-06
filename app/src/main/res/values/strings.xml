@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDos</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="task_done_fragment">Task Done fragment</string>
+    <string name="task_list">Task List</string>
+    <string name="task_done">Task Done</string>
+    <string name="task_name">Task Name</string>
+    <string name="save">Save</string>
+    <string name="task_name_required">Task name is required</string>
+    <string name="task_saved">Task saved</string>
+    <string name="task_updated">Task updated</string>
+    <string name="error_msg">Error occurred</string>
+</resources>
