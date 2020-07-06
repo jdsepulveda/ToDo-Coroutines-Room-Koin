@@ -1,0 +1,6 @@
+- Koin
+- Kotlin
+- MVVM
+- Coroutine
+- Room
+- Navigation
